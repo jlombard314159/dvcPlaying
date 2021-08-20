@@ -1,0 +1,4 @@
+outs:
+- md5: c0ef9045d5a663b969ef8cf475137eff
+  size: 341173
+  path: az-areas.jsonlines
